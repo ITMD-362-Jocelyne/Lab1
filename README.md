@@ -1,1 +1,1 @@
-# ITMD-362-Lab-1-Cloning-and-Committing-to-a-Git-Repository
+# ITMD-362-Lab-1
